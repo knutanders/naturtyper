@@ -1,8 +1,3 @@
-naturtyper
-==========
-
-
-
 # Habitat- og livsmediumvariabler fra NiN i Darwin Core 
 
 #### Artsdatabanken 2021-03-24
